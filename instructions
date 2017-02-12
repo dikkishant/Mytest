@@ -1,0 +1,7 @@
+Tic Tic Toe---Dikshant
+
+1.place all 3 files in the same directory
+2.execute the "main.rb"  file in the terminal
+3.the main file -- inherits logic_Flow  class
+4. logic flow_class inherits Draw_board class
+5. please enter legitimate values...in the fields as per instructions at run time.
